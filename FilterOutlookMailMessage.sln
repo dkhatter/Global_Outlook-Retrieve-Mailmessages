@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterOutlookMailMessage", "FilterOutlookMailMessage\FilterOutlookMailMessage.csproj", "{DA1E8C88-FBEE-4C68-AB2A-E77A7A27B3B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1E8C88-FBEE-4C68-AB2A-E77A7A27B3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1E8C88-FBEE-4C68-AB2A-E77A7A27B3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1E8C88-FBEE-4C68-AB2A-E77A7A27B3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1E8C88-FBEE-4C68-AB2A-E77A7A27B3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FB40C3-93DC-4879-8FCB-1DC214E9AED5}
+	EndGlobalSection
+EndGlobal
